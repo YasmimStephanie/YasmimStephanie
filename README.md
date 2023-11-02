@@ -4,7 +4,7 @@
    <a href="https://github.com/YasmimStephanie">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimStephanie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimStephanie&layout=compact&langs_count=6&theme=synthwave"/>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=YasmimStephanie&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"/>
 
 </div>
 <div style="display: inline_block"><br>

@@ -5,11 +5,11 @@
 
 ### Software Engineer · Full-Stack Developer
 
-**Computer Science Graduate | Building meaningful digital experiences**
+**Computer Science Graduate | Building Meaningful Digital Experiences**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,50:24143B,100:09090F&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,50:24143B,100:09090F&height=3&section=header" width="100%" alt="Purple decorative divider"/>
 
 <br>
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-15121F?style=for-the-badge&logo=linkedin&logoColor=C9B4E8" alt="LinkedIn"/>
 </a>
 <a href="mailto:yasmimnaiman@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-15121F?style=for-the-badge&logo=gmail&logoColor=C9B4E8" alt="Email"/>
+  <img src="https://img.shields.io/badge/GMAIL-15121F?style=for-the-badge&logo=gmail&logoColor=C9B4E8" alt="Gmail"/>
 </a>
 
 </div>
@@ -36,7 +36,7 @@ My work and studies span **front-end development, back-end technologies, databas
 
 Through independent development projects and professional job simulations, I have strengthened my skills in problem-solving, debugging, software architecture, API development, and data-driven thinking.
 
-I am particularly interested in opportunities involving **Software Engineering, Full-Stack Development, and Back-End Development**, where I can contribute, collaborate, and keep growing as an engineer.
+I am particularly interested in opportunities involving **Software Engineering, Full-Stack Development, and Back-End Development**, where I can contribute, collaborate, and continue growing as an engineer.
 
 <br>
 
@@ -46,25 +46,25 @@ I am particularly interested in opportunities involving **Software Engineering, 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css&theme=dark" alt="JavaScript, TypeScript, Python, Java, C Sharp, HTML and CSS"/>
 
 <br><br>
 
 ### Front-End Development
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,sass,figma&theme=dark" alt="Front-end technologies"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,sass,figma&theme=dark" alt="React, Tailwind CSS, Sass and Figma"/>
 
 <br><br>
 
 ### Back-End & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,firebase&theme=dark" alt="Back-end and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,firebase&theme=dark" alt="Node.js, Spring, MySQL and Firebase"/>
 
 <br><br>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman"/>
 
 </div>
 
@@ -83,6 +83,7 @@ I am particularly interested in opportunities involving **Software Engineering, 
 A bilingual cybersecurity education platform featuring interactive lessons, real-world security scenarios, and a knowledge assessment quiz.
 
 **Highlights**
+
 - English and Portuguese support
 - Interactive JavaScript quiz
 - Responsive premium interface
@@ -102,6 +103,7 @@ A bilingual cybersecurity education platform featuring interactive lessons, real
 A responsive web experience designed to present veterinary services through a clear, approachable interface.
 
 **Highlights**
+
 - Responsive page structure
 - User-focused presentation
 - Organized service information
@@ -134,9 +136,19 @@ My learning journey includes hands-on projects and job simulations focused on re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasmimStephanie&show_icons=true&hide_border=true&bg_color=09090F&title_color=C9B4E8&text_color=C8CBD4&icon_color=9C84C7" height="165" alt="GitHub statistics"/>
+**Exploring software engineering through continuous learning, practical projects, and meaningful technical challenges.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimStephanie&layout=compact&hide_border=true&bg_color=09090F&title_color=C9B4E8&text_color=C8CBD4" height="165" alt="Most used languages"/>
+<br>
+
+<a href="https://github.com/YasmimStephanie?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-24143B?style=for-the-badge&logo=github&logoColor=C9B4E8" alt="Explore my GitHub repositories"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/YasmimStephanie/securewise">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECT-SECUREWISE-15121F?style=for-the-badge&logo=github&logoColor=C9B4E8" alt="Explore SecureWise"/>
+</a>
 
 </div>
 
@@ -154,7 +166,7 @@ I am open to connecting with developers, collaborating on meaningful projects, a
   <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-24143B?style=for-the-badge&logo=linkedin&logoColor=E0D7EB" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:yasmimnaiman@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-24143B?style=for-the-badge&logo=gmail&logoColor=E0D7EB" alt="Send an Email"/>
+  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-24143B?style=for-the-badge&logo=gmail&logoColor=E0D7EB" alt="Send an email"/>
 </a>
 
 <br><br>
@@ -163,6 +175,6 @@ I am open to connecting with developers, collaborating on meaningful projects, a
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,50:24143B,100:09090F&height=3&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,50:24143B,100:09090F&height=3&section=footer" width="100%" alt="Purple decorative divider"/>
 
 </div>
